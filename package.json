@@ -1,0 +1,28 @@
+{
+  "name": "antd-block",
+  "version": "1.0.0",
+  "description": "存放公共区块文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaowei1012/block.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gaowei1012/block/issues"
+  },
+  "homepage": "https://github.com/gaowei1012/block",
+  "keywords": [
+    "block",
+    "antd",
+    "react"
+  ],
+  "author": "执念",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^4.21.2",
+    "react": "^18.2.0"
+  }
+}
